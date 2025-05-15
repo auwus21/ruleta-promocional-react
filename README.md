@@ -84,10 +84,4 @@ Sugerencias de capturas para incluir en este README:
 
 ---
 
-## 🔐 Código
-
-El código fuente no está disponible públicamente. Este proyecto está en uso privado por razones de seguridad, pero su funcionamiento está documentado en este repositorio.
-
----
-
 > 💬 *“Transformamos un simple sorteo en una experiencia divertida, viralizable y controlada para nuestros clientes.”*
